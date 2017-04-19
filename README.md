@@ -45,14 +45,14 @@
 	two words with the same starting letter will have the same root node. 
 					
 			   Node_list = [w, ......., h]   			
-						   	|		    |
-						  	o 		    e
-							|		   / \
-							r		  y	  l
-						   / \			   \
-						  l	  d 			l
-						 / 					 \
-					    d 					  o 
+        						  |		        |
+        						  o 		      e
+        							|		       / \
+        							r		     y	  l
+        						 / \			       \
+        						l	  d 			      l
+        					 / 					          \
+        					 d 					           o 
 
 
 
